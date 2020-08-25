@@ -1,45 +1,64 @@
 ---
-title: "Amazon increase income 1.5 Million"
-date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-5.jpg"
-description: "This is meta description."
+title: Amazon increase income 1.5 Million
+date: 2019-05-12T12:14:34.000+06:00
+image: images/blog/post-5.jpg
+description: This is meta description.
+
 ---
+提高網路知名度，抓住年輕人目光
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+### 圈圈，為小商家而生的網紅行銷平台
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+### 網紅行銷，花費高又耗時？是大品牌的專利？
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+## 圈圈三大特點，超越你對網紅行銷的想像
 
-> Dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.
+![找到你心目中的最佳代言人](https://www.influenxio.dev/static/images/landing/mockup-1@3x.png =100%x)
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem
-ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
-labore et dolore magnam aliquam quaerat voluptatem.
+#### 找到你心目中的最佳代言人
+
+##### 免費註冊，馬上瀏覽
+
+###### 免費註冊為會員，立刻瀏覽10萬筆Instagram微網紅名單！
+
+##### 精準搜尋
+
+###### 獨家AI技術，精準分類網紅類型，從美食、美妝到旅行生活...等。只要輸入關鍵字，你想找的合作類型，我們都有！
+
+##### 以人找人
+
+###### 想在一週內找到20位熱愛健身的美食網紅分享你的新菜單？ 沒問題！你只需要從資料庫中挑選出3-5位合適的人選，系統除了邀請他們之外，還會自動幫你以人找人，邀請更多符合條件、風格相似的網紅參與你的活動。
+
+操作簡單，適合所有人
+
+##### 從搜尋到邀請，一鍵完成
+
+###### 只要輸入關鍵字，從搜尋到合作邀請，一鍵就能完成。在合作之前還能看到相關數據，網紅行銷不怕找錯人。
+
+##### 一站式解決方案
+
+###### 在圈圈網站上可以完成與網紅合作所需要的所有流程。而且操作介面簡單，不需具備專業知識，任何人都能輕鬆上手。
+
+##### 付款有保障
+
+###### 串接專業第三方金流服務，網紅創作的內容需要經過你的審核，我們才會付款。你只需要與網紅溝通內容，繁雜的金流交給我們，高效又安心。
+
+![操作簡單，適合所有人](https://www.influenxio.dev/static/images/landing/mockup-2@3x.png =100%x)
+
+自己來，省更多
+
+##### 自助式網紅媒合平台
+
+###### 圈圈不是一般的廣告代理商。我們給你最多自主性，幫助你輕鬆完成你想要的網紅口碑行銷。
+
+##### 一站完成，流程全透明
+
+###### 從搜尋、媒合到報價，100%掌握與網紅合作的所有流程，各階段的進度與報價全部透明化。
+
+##### 將預算花在刀口上
+
+###### 因為省去中間人力，所以能夠給你最透明實惠的價格。每位網紅的報價清楚，你可以依照預算自由選擇合作對象。千元開案，不需綁約，最適合小商家。
+
+##### 即時客服為你解答
+
+###### 操作過程中遇到問題，都能透過線上客服聯繫，不用擔心找不到人。
